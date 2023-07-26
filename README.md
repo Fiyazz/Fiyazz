@@ -9,6 +9,6 @@ Here's a quick summary about me:
 😊 Pronouns: She/her
 💡 Fun fact: I'm a graduate at AltSchool Africa School of Software Engineering Class of 2023.
 🌱 I’m currently learning VueJs.
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-💼 Job interests: Software Engineer, Front-End Engineer, or UI Engineer (Intern or Junior level).
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities in tech
+💼 Job interests: Software Engineer, Front-End Engineer, or UI Engineer (Intern or Junior level), Content Creator.
 📫 You can view my resume and contact me by emailing abdusalamummulkhayr@gmail.com
