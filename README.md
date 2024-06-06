@@ -1,8 +1,7 @@
 
 Hello there; welcome 👋🏾
-AltSchool Badge Website Badge Linkedin Badge Twitter Badge
 
-I'm a Software Engineer, Content Creator, and creativity enthusiast who recently worked as a Customer Technical Support at Human Aware Real Time Solutions Limited. I'm passionate about sharing knowledge, documentation, web engineering, creative designs, business contents, and others. I create creative technical content (on my Blog, Newsletter, instagram, and YouTube), build useful open-source projects, build  creative technical communities...
+I'm a Software Engineer, Technical writer, Content Creator, and creativity enthusiast who recently completed the Talent4Startups bootcamp with Techquest Stem Academy, along with Digital Africa, France. I'm passionate about programming, sharing knowledge, documentation, web engineering, creative designs, business contents, and others. I create creative technical content (on my Blog, Newsletter, instagram, and YouTube), build useful open-source projects, build  creative technical communities...
 
 Here's a quick summary about me:
 
